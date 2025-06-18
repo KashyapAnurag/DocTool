@@ -1,4 +1,5 @@
-#  PDF Manhole Extractor
+#  ![image](https://github.com/user-attachments/assets/32458efd-eded-4318-8d74-6118a1055847)
+PDF Manhole Extractor
 
 A Python utility to extract structured data from PDF records and output them into organized Excel spreadsheets.
 
